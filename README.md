@@ -65,7 +65,7 @@ The commonly used clustering metrics, such as acc, nmi, ari, and f1, etc.
 Get the network parameters by `print(num_net_parameter(model))', where model is the designed network.
 
 # Data
-Due to the limitation of GitHub, we share the other data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>].
+Due to the limitation of GitHub, we share the other data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>]. Notably, the AIDS Antiviral Screen dataset could be found at https://paperswithcode.com/dataset/aids-antiviral-screen.
 
 # Q&A
 * Q1: What we use the cosine similarity measure as a distance measure to construct graph data for non-graph datasets?
