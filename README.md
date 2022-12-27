@@ -66,7 +66,6 @@ Get the network parameters by `print(num_net_parameter(model))', where model is 
 
 # Data
 Due to the limitation of GitHub, we share the other data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>]. The AIDS Antiviral Screen dataset can be found at [<a href="https://paperswithcode.com/dataset/aids-antiviral-screen">here</a>]. 
-% We will build a specific sub-data of AIDS for the clustering task and upload it soon after designing it in a unified format.
 
 # Q&A
 * Q1: What we use the cosine similarity measure as a distance measure to construct graph data for non-graph datasets?
