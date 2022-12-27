@@ -33,7 +33,8 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 + GPU (GeForce RTX 2080 Ti) & (NVIDIA GeForce RTX 3090) & (Quadro RTX 8000)
 
 # To run code
-+ Step 1: python DAGC.py --name [data_name]
++ Step 1: choose the data, i.e., [data_name]=acm/cite/dblp/hhar/reut/usps/amap/pubmed/aids
++ Step 2: python DAGC.py --name [data_name]
 * For examle, if u would like to run AGCN on the ACM dataset, u need to
 * run the command "python DAGC.py --name acm"
 
@@ -48,7 +49,7 @@ Get the network parameters by `print(num_net_parameter(model))', where model is 
 # Data
 Due to the limitation of GitHub, we share the data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>].
 
-## Q&A
+# Q&A
 * Q1: What we use the cosine similarity measure as a distance measure to construct graph data for non-graph datasets?
 * A1: KNN graph construction with the Euclidean distance measure fails to exploit the geometric structure information and hence cannot provide an effective KNN graph. Instead, we use the cosine similarity measure as a distance measure to conduct the KNN-k graph construction, since two samples owing to the same cluster tend to have larger absolute cosine values than those lying in different clusters.
 * Q2: What device was the experiment run on?
