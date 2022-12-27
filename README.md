@@ -24,7 +24,7 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 >   title={Deep Attention-guided Graph Clustering with Dual Self-supervision}, <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
 >   journal={arXiv preprint arXiv:2111.05548},  <br>
->   year={2022}
+>   year={2021}
 > } <br>
 
 # Environment
