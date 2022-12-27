@@ -39,7 +39,7 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 * run the command "python DAGC.py --name acm"
 
 # Evaluation
-+ evaluation.py
++ eva_previous.py
 👉
 The commonly used clustering metrics, such as acc, nmi, ari, and f1, etc.
 + get_net_par_num.py
