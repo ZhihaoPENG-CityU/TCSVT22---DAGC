@@ -1,0 +1,159 @@
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.9157 max 0.9157 
+ [0.9157]
+NMI mean 0.7116 max 0.7116 
+ [0.7116]
+ARI mean 0.76689 max 0.76689 
+ [0.76689]
+F1  mean 0.91537 max 0.91537 
+ [0.91537]
+:acc, nmi, ari, f1: 
+0.9157
+0.7116
+0.7669
+0.9154
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.91967 max 0.91967 
+ [0.91967]
+NMI mean 0.7206 max 0.7206 
+ [0.7206]
+ARI mean 0.7767 max 0.7767 
+ [0.7767]
+F1  mean 0.92001 max 0.92001 
+ [0.92001]
+:acc, nmi, ari, f1: 
+0.9197
+0.7206
+0.7767
+0.9200
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.9124 max 0.9124 
+ [0.9124]
+NMI mean 0.70051 max 0.70051 
+ [0.70051]
+ARI mean 0.75764 max 0.75764 
+ [0.75764]
+F1  mean 0.91268 max 0.91268 
+ [0.91268]
+:acc, nmi, ari, f1: 
+0.9124
+0.7005
+0.7576
+0.9127
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.92364 max 0.92364 
+ [0.92364]
+NMI mean 0.73113 max 0.73113 
+ [0.73113]
+ARI mean 0.78704 max 0.78704 
+ [0.78704]
+F1  mean 0.92341 max 0.92341 
+ [0.92341]
+:acc, nmi, ari, f1: 
+0.9236
+0.7311
+0.7870
+0.9234The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.91207 max 0.91207 
+ [0.91207]
+NMI mean 0.70634 max 0.70634 
+ [0.70634]
+ARI mean 0.75859 max 0.75859 
+ [0.75859]
+F1  mean 0.91205 max 0.91205 
+ [0.91205]
+:acc, nmi, ari, f1: 
+0.9121
+0.7063
+0.7586
+0.9121
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.9157 max 0.9157 
+ [0.9157]
+NMI mean 0.71568 max 0.71568 
+ [0.71568]
+ARI mean 0.76775 max 0.76775 
+ [0.76775]
+F1  mean 0.91554 max 0.91554 
+ [0.91554]
+:acc, nmi, ari, f1: 
+0.9157
+0.7157
+0.7678
+0.9155
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.91438 max 0.91438 
+ [0.91438]
+NMI mean 0.71357 max 0.71357 
+ [0.71357]
+ARI mean 0.76453 max 0.76453 
+ [0.76453]
+F1  mean 0.91403 max 0.91403 
+ [0.91403]
+:acc, nmi, ari, f1: 
+0.9144
+0.7136
+0.7645
+0.9140
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.91934 max 0.91934 
+ [0.91934]
+NMI mean 0.72642 max 0.72642 
+ [0.72642]
+ARI mean 0.77708 max 0.77708 
+ [0.77708]
+F1  mean 0.9193 max 0.9193 
+ [0.9193]
+:acc, nmi, ari, f1: 
+0.9193
+0.7264
+0.7771
+0.9193
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.90975 max 0.90975 
+ [0.90975]
+NMI mean 0.6959 max 0.6959 
+ [0.6959]
+ARI mean 0.75188 max 0.75188 
+ [0.75188]
+F1  mean 0.90988 max 0.90988 
+ [0.90988]
+:acc, nmi, ari, f1: 
+0.9097
+0.6959
+0.7519
+0.9099
+The experimental results
+lambda_1:  0.1 lambda_2:  0.1 lambda_3:  0.001
+#################acm####################
+kmeans F mean 0.91405 max 0.91405 
+ [0.91405]
+NMI mean 0.71427 max 0.71427 
+ [0.71427]
+ARI mean 0.76402 max 0.76402 
+ [0.76402]
+F1  mean 0.91389 max 0.91389 
+ [0.91389]
+:acc, nmi, ari, f1: 
+0.9141
+0.7143
+0.7640
+0.9139
