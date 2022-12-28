@@ -13,18 +13,22 @@
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][agcn-url]
 
-DOI: 
+DOI: 10.1109/TCSVT.2022.3232604
 
-URL: http://arxiv.org/abs/2111.05548
+URL: https://ieeexplore.ieee.org/document/9999681
 
 We have added comments in the code, and the specific details can correspond to the explanation in the paper. Please get in touch with me (zhihapeng3-c@my.cityu.edu.hk) if you have any issues.
 
 We appreciate it if you use this code and cite our related papers, which can be cited as follows,
-> @article{peng2021deep, <br>
->   title={Deep Attention-guided Graph Clustering with Dual Self-supervision}, <br>
+> @ARTICLE{9999681, <br>
+>   title={Deep Attention-guided Graph Clustering with Dual Self-supervision},  <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
->   journal={arXiv preprint arXiv:2111.05548},  <br>
->   year={2021}
+>   journal={IEEE Transactions on Circuits and Systems for Video Technology},   <br>
+>   year={2022}, <br>
+>   volume={}, <br>
+>   number={}, <br>
+>   pages={1-1}, <br>
+>   doi={10.1109/TCSVT.2022.3232604}
 > } <br>
 
 > @article{peng2022graph, <br>
