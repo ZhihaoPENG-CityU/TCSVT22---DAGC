@@ -15,7 +15,7 @@
 
 DOI: 10.1109/TCSVT.2022.3232604
 
-URL: https://ieeexplore.ieee.org/document/9999681
+URL: https://ieeexplore.ieee.org/iel7/76/4358651/09999681.pdf
 
 We have added comments in the code, and the specific details can correspond to the explanation in the paper. Please get in touch with me (zhihapeng3-c@my.cityu.edu.hk) if you have any issues.
 
